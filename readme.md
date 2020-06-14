@@ -8,7 +8,11 @@
 
 ***Warring:We Using BaiduNetDisk To Save ROMs,If You Download It None In China,Must To Download With VPN.***
 
+---
+
 #### Flash In Recovery
+
+##### Xiaomi&Redmi
 
 ###### Xiaomi Redmi 3
 
@@ -16,10 +20,9 @@
 
 ---
 
-###### Samsung Note3 (hltechn)
+###### Xiaomi 3TD(China Mobile)
 
-* [PixelExperience:ewjn](https://pan.baidu.com/s/1jOuXKUaKr5bhqXowOfDGpg)
-* [MIUI7:4axi](https://pan.baidu.com/s/1c9CwDI4qkiERUx* d_X32OA)
+* [CM OS:rshn](https://pan.baidu.com/s/1CItfYcvLQQKc8JqpqIxxhQ)
 
 ---
 
@@ -30,19 +33,28 @@
 
 ---
 
-###### Xiaomi 2/2s
+###### Xiaomi 2/2s/2sc
 
 * [Color OS:cb76]()
 * [MIUI11:hiz5](https://pan.baidu.com/s/1UiO1Bm8-RyOI2fTPmg-txA)
+* [AOSP 4.3-9.0:en8s](https://pan.baidu.com/s/1Q8OMxkgH6CLeg-JISJJQ0Q)
 
 ---
 
+###### Xiaomi Redmi  1/1s
+
+* [AOSiP 6.3:et5v](https://pan.baidu.com/s/1Il6jy3ysP7RDJTZXQYtWXg)
+* [XenonHD 170503:slyf](https://pan.baidu.com/s/1S4X47N6qfPhYsDBxzKUtjA )
+
+---
+
+##### Huawei
 ###### Huawei Honor 6
 
 * [MIUI7:xe1z](https://pan.baidu.com/s/1j-jeE4aq3pbxECtdtdkdbA)
 
 ---
-
+##### OPPO
 ###### OPPO R9m
 
 * [MIUI8/9/10:1rrk](https://pan.baidu.com/s/1RTSflPL47zGuJ8Jd2moF_Q)<u>(No tutorial! See BiliBili for the course)</u>
@@ -56,10 +68,11 @@
 * [Lineage OS:szh6](https://pan.baidu.com/s/1T0jwJVTPc69ZR6-e9iorrA)<u>(No tutorial! See BiliBili for the course)</u>
 
 ---
+##### SAMSUNG
+###### Samsung Note3 (hltechn)
 
-###### Xiaomi 3TD(China Mobile)
-
-* [CM OS:rshn](https://pan.baidu.com/s/1CItfYcvLQQKc8JqpqIxxhQ)
+* [PixelExperience:ewjn](https://pan.baidu.com/s/1jOuXKUaKr5bhqXowOfDGpg)
+* [MIUI7:4axi](https://pan.baidu.com/s/1c9CwDI4qkiERUx* d_X32OA)
 
 ---
 
