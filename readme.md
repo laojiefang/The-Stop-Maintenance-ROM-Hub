@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## Welcome To The Stop Maintenance ROM hub
 
-You can use the [editor on GitHub](https://github.com/laojiefang/gemini/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<u>At Here You Can Download The ROM Of Some Mobile Phones That Have Stopped Maintenance..</u>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The ROM Of This Website Is The ROM That The Official Has Stopped Maintenance. If There Has Any Problem, This Website Will NOT BE RESPONSIBLE FOR IT**
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***Warring:We Using BaiduNetDisk To Save ROMs,If You Download It None In China,Must To Download With VPN.***
 
-```markdown
-Syntax highlighted code block
+#### Flash In Recovery
 
-# Header 1
-## Header 2
-### Header 3
+###### Xiaomi Redmi 3
 
-- Bulleted
-- List
+* [PixelExperience:72zl](https://pan.baidu.com/s/1R_gQsFS1E88-TG8Gc-78Sg)
+* 
 
-1. Numbered
-2. List
+###### Samsung Note3 (hltechn)
 
-**Bold** and _Italic_ and `Code` text
+* [PixelExperience:ewjn](https://pan.baidu.com/s/1jOuXKUaKr5bhqXowOfDGpg)
+* [MIUI7:4axi](https://pan.baidu.com/s/1c9CwDI4qkiERUx* d_X32OA)
+* 
 
-[Link](url) and ![Image](src)
-```
+###### Xiaomi 5X
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [PixelExperience:ho77](https://pan.baidu.com/s/1k3IsqOIkjwTLu4cYLgTlhQ)
+* [Color OS:p18k](https://pan.baidu.com/s/1S67stN5uubIFPsNHRgL1VQ)
+* 
 
-### Jekyll Themes
+###### Xiaomi 2/2s
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laojiefang/gemini/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Color OS:cb76]()
+* [MIUI11:hiz5](https://pan.baidu.com/s/1UiO1Bm8-RyOI2fTPmg-txA)
+* 
 
-### Support or Contact
+###### Huawei Honor 6
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [MIUI7:xe1z](https://pan.baidu.com/s/1j-jeE4aq3pbxECtdtdkdbA)
+* 
+
+###### OPPO R9m
+
+* [MIUI8/9/10:1rrk](https://pan.baidu.com/s/1RTSflPL47zGuJ8Jd2moF_Q)<u>(No tutorial! See BiliBili for the course)</u>
+* 
+
+###### OPPO R9s
+
+* [MIUI8/9：kn9f](https://pan.baidu.com/s/1DHr_5o9OxvGMEPzWaxLsrQ)
+* [Flyme6/7:9ph5](https://pan.baidu.com/s/1MdgUUzbUfrRGyCKoLV8Tog)
+* [Lineage OS:szh6](https://pan.baidu.com/s/1T0jwJVTPc69ZR6-e9iorrA)<u>(No tutorial! See BiliBili for the course)</u>
+* 
+
+###### Xiaomi 3TD(China Mobile)
+
+* [CM OS:rshn](https://pan.baidu.com/s/1CItfYcvLQQKc8JqpqIxxhQ)
+* 
+
+
+
+**More Comming S∞n**
+
+---
+
+#### Flash In Sideload
+
+**More Comming S∞n**
