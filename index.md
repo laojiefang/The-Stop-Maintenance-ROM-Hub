@@ -40,6 +40,9 @@
 * [MIUI11:hiz5](https://pan.baidu.com/s/1UiO1Bm8-RyOI2fTPmg-txA)
 * [AOSP 4.3-9.0:en8s](https://pan.baidu.com/s/1Q8OMxkgH6CLeg-JISJJQ0Q)
 
+###### Xiaomi 5
+
+* [Flyme:1maq](https://pan.baidu.com/s/15XqaD_5PDJD2v8s3XnmIhg)
 ---
 
 ###### Xiaomi Redmi  1/1s
