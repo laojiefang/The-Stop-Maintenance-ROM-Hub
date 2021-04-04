@@ -17,6 +17,7 @@
 ###### Xiaomi Redmi 3
 
 * [PixelExperience:72zl](https://pan.baidu.com/s/1R_gQsFS1E88-TG8Gc-78Sg)
+* [Flyme:ttnp](https://pan.baidu.com/s/1B8ApwA5BvL-TQMRh4v8gOQ)
 
 ---
 
