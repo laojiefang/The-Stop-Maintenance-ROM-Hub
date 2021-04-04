@@ -81,7 +81,7 @@
 * [PixelExperience:h2ei](https://pan.baidu.com/s/1j3h14CrrzfPe8pcipdejCQ)
 * [Flyme8:gbwk](https://pan.baidu.com/s/13xkp89FUuxms5UC935ZLng)
 * [H2OS:dq5b](https://pan.baidu.com/s/1WatwZPcjaE4mrZt3Zwon4g)
-
+* [MIUI12:28hs](https://pan.baidu.com/s/1pKca4FrCIWrVdSxUN_6BKA)
 
 **More Comming S∞n**
 
